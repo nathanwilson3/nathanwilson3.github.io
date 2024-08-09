@@ -4,8 +4,9 @@
 Southern New Hampshire University
 Software Engineering
 
-### Work Experience
-United States Army, Infantry - 2004-2014
+### My Code First Code Review
+[Publication](https://youtu.be/gOuNl2OCKEs)
+
 
 
 
