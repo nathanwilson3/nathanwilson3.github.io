@@ -1,11 +1,11 @@
 # nathanwilson3.github.io
 
 ### Education
-Southern New Hampshire University
+Southern New Hampshire University<br>
 Software Engineering
 
-### My Code First Code Review
-[Publication](https://youtu.be/gOuNl2OCKEs)
+### CS 499 Code Review
+[Code Review vidoe](https://youtu.be/gOuNl2OCKEs)
 
 
 
