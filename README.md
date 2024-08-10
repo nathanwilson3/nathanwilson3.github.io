@@ -5,7 +5,7 @@ Southern New Hampshire University<br>
 Software Engineering
 
 ### CS 499 Code Review
-[Code Review vidoe](https://youtu.be/gOuNl2OCKEs)
+[Code Review video](https://youtu.be/gOuNl2OCKEs)
 
 
 
