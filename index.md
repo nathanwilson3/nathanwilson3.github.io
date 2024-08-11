@@ -10,7 +10,7 @@ The process of developing my ePortfolio has been instrumental in highlighting my
 
 ## Collaborating in a Team Environment
 
-Throughout the program, I have had the opportunity to work in collaborative environments, both in team projects and peer reviews. These experiences have taught me the importance of effective communication, particularly when working with diverse teams that include both technical and non-technical members. I have learned to listen actively, provide constructive feedback, and integrate various perspectives to achieve the best outcomes. For example, in the development of my capstone project, I collaborated with peers to refine the design and functionality of the software, ensuring that it met both user and technical requirements.
+Throughout the program, I have had the opportunity to work in collaborative environments, both in team projects and peer reviews. These experiences have taught me the importance of effective communication, particularly when working with diverse teams that include both technical and non-technical members. I have learned to listen actively, provide constructive feedback, and integrate various perspectives to achieve the best outcomes. For example, in CS 310 - Collaboration and Team Project, we created a jukebox application as a class.  To do this we utilized version control within the Eclipse IDE, which was linked to Atlassian, a Git repository service.  Everyone was able to see other branches and see what kinds of improvements they had made, as well as being able to offer advice to other people and help them solve issues they were having.
 
 ## Communicating with Stakeholders
 
