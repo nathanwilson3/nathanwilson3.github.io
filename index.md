@@ -37,7 +37,3 @@ Together, these artifacts provide a cohesive narrative of my journey through the
 ## Conclusion
 
 In conclusion, my ePortfolio is more than just a collection of projects; it is a reflection of my dedication to mastering the field of computer science. The coursework and capstone project have equipped me with the knowledge and skills needed to succeed in this dynamic industry. As I prepare to enter the workforce, I am confident that the experiences and lessons I have gained throughout this program will enable me to contribute effectively to any organization and continue to grow as a computer science professional.
-
-
-### CS 499 Code Review
-[Code Review video](https://youtu.be/gOuNl2OCKEs)
