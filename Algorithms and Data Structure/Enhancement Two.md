@@ -15,4 +15,4 @@ One of the challenges I faced was ensuring that these optimizations did not comp
 Through this process, I gained a deeper appreciation for the impact that well-designed data structures and algorithms can have on the overall performance and scalability of an application. The enhancements made to this artifact demonstrate my ability to apply theoretical knowledge to solve real-world problems, making it a valuable addition to my ePortfolio.
 
 ## Artifact Two Repository 
-[Algorithms and Data Structure]
+[Algorithms and Data Structure](https://github.com/nathanwilson3/nathanwilson3.github.io/tree/main/Algorithms%20and%20Data%20Structure)
