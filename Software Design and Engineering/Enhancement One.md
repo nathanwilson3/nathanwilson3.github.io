@@ -1,5 +1,4 @@
 ## Artifact One: Software Design and Engineering
-Brief Description of the Artifact
 The artifact I selected for my ePortfolio is a dashboard application designed for managing and analyzing data from an animal shelter. This application was originally created as part of my coursework in [Course Name], during which I was tasked with developing a software solution that allowed users to interact with a MongoDB database, performing CRUD (Create, Read, Update, Delete) operations. The dashboard was built using Python, Dash, and MongoDB, providing a user-friendly interface to facilitate the management and analysis of the shelter’s data.
 
 ## Justification for Inclusion
@@ -14,4 +13,4 @@ The process of enhancing this artifact involved several key steps. First, I cond
 Throughout this process, I faced several challenges, such as balancing the need for new features with the constraints of the existing codebase. I also had to consider the impact of each enhancement on the overall performance and maintainability of the application. These challenges helped me deepen my understanding of software engineering principles, particularly in the areas of software architecture and user-centered design. The experience reinforced the importance of thorough testing and iterative development in delivering high-quality software.
 
 ## Artifact Repository
-
+[Software Design and Engineering](https://github.com/nathanwilson3/nathanwilson3.github.io/tree/main/Software%20Design%20and%20Engineering)
