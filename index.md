@@ -46,22 +46,22 @@ The original program was developed using Apporto, a virtual machine managed by S
 
 <img src="Original%20Artifact/Original%20crud%20test.png">
 
-![Dash app & data table](https://github.com/nathanwilson3/nathanwilson3.github.io/blob/main/Original%20Artifact/Original%20Dash%20app%201.png)
+<img src="Original%20Artifact/Original%20Dash%20app%201.png">
 
 ## Artifact One: Software Design and Engineering
 The artifact I selected for my ePortfolio is a dashboard application designed for managing and analyzing data from an animal shelter. This application was originally created as part of my coursework in CS 340 Client/Server Application, during which I was tasked with developing a software solution that allowed users to interact with a MongoDB database, performing CRUD (Create, Read, Update, Delete) operations. The dashboard was built using Python, Dash, and MongoDB, providing a user-friendly interface to facilitate the management and analysis of the shelter’s data.
 
-![Animal Shelter Module](https://github.com/nathanwilson3/nathanwilson3.github.io/blob/main/Software%20Design%20and%20Engineering/Animal%20Shelter%20Module.png)
+<img src="Software%20Design%20and%20Engineering/Animal%20Shelter%20Module.png">
 
 ## Justification for Inclusion
 I selected this artifact for inclusion in my ePortfolio because it showcases my skills and abilities in software design and engineering. The project involved designing and developing a full-stack application that integrates front-end and back-end components, illustrating my capability to build robust, scalable, and maintainable software systems. The enhancements I made to the artifact focused on improving the application’s architecture, optimizing performance, and enhancing the user interface to ensure a seamless experience. These improvements demonstrate my proficiency in software engineering principles and best practices, such as modularity, code reusability, and user-centered design.
 
-![Database Connection Module](https://github.com/nathanwilson3/nathanwilson3.github.io/blob/main/Software%20Design%20and%20Engineering/Database%20connection%20class.png)
+<img src="Software%20Design%20and%20Engineering/Database%20connection%20class.png">
 
 ## Course Objectives Met
 This artifact meets the course objectives related to software design and engineering. Specifically, it demonstrates my ability to design and develop professional-quality software that meets the needs of specific users—in this case, animal shelter staff. The enhancements made during this project addressed various aspects of software quality, including performance optimization, security, and user interface design. These improvements reflect my understanding of the trade-offs involved in software engineering, such as balancing functionality with performance and usability.
 
-![Unit Test](https://github.com/nathanwilson3/nathanwilson3.github.io/blob/main/Software%20Design%20and%20Engineering/Crud%20unit%20test.png)
+<img src="Software%20Design%20and%20Engineering/Crud%20unit%20test.png">
 
 ## Process and Learning
 The process of enhancing this artifact involved several key steps. First, I conducted a thorough code review to identify areas for improvement, focusing on software architecture, performance, and user experience. I then refactored the code to improve modularity and maintainability, breaking down large functions into smaller, reusable components. I also optimized database queries to reduce latency and improve the responsiveness of the application. Additionally, I enhanced the user interface by implementing a more intuitive design, ensuring that the application is accessible and easy to use for non-technical users.
@@ -74,17 +74,17 @@ Throughout this process, I faced several challenges, such as balancing the need 
 # Artifact Two: Data Structures and Algorithms
 The dashboard application selected as my artifact also serves as an excellent representation of my skills in data structures and algorithms. Originally developed as part of my coursework in CS 340 Client/Server Application, the application interacts with a MongoDB database to manage and analyze data related to an animal shelter. The application performs various operations, including filtering, sorting, and searching through large datasets, making it a suitable project to demonstrate my understanding and application of data structures and algorithms.
 
-![animalShelter Module](https://github.com/nathanwilson3/nathanwilson3.github.io/blob/main/Algorithms%20and%20Data%20Structure/Animal%20Shelter%20Module.png)
+<img src="Algorithms%20and%20Data%20Structure/Animal%20Shelter%20Module.png">
 
 ## Justification for Inclusion
 This artifact is included in my ePortfolio because it highlights my ability to design and implement efficient algorithms and data structures in a real-world application. The project involved optimizing CRUD operations, indexing strategies, and implementing complex queries to enhance the performance of the application. These enhancements illustrate my proficiency in applying algorithmic principles to solve practical problems, such as reducing the time complexity of database operations and ensuring the application can handle large datasets efficiently.
 
-![Crud Operations](https://github.com/nathanwilson3/nathanwilson3.github.io/blob/main/Algorithms%20and%20Data%20Structure/Create%20operation.png)
+<img src="Algorithms%20and%20Data%20Structure/Create%20operation.png">
 
 ## Course Objectives Met
 The enhancements made to this artifact meet the course objectives related to data structures and algorithms. Specifically, I focused on optimizing the application’s performance by implementing efficient data structures and algorithms. For example, I added indexing to the MongoDB database to reduce query times, which is a critical improvement given the potentially large size of the animal shelter’s data. Additionally, I refactored the code to incorporate more efficient algorithms for sorting and filtering data, ensuring that the application can scale as the dataset grows.
 
-![Unit tests](https://github.com/nathanwilson3/nathanwilson3.github.io/blob/main/Algorithms%20and%20Data%20Structure/Crud%20unit%20test.png)
+<img src="Algorithms%20and%20Data%20Structure/Crud%20unit%20test.png">
 
 ## Process and Learning
 Enhancing this artifact involved a deep dive into the existing codebase to identify inefficiencies in the algorithms and data structures used. I began by analyzing the performance of the CRUD operations and identified bottlenecks related to database queries. To address these issues, I implemented indexing strategies that reduced the time complexity of search operations from O(n) to O(log n) in some cases. I also refactored the code to use more efficient data structures where appropriate, such as replacing linear searches with binary searches in specific contexts.
@@ -103,7 +103,7 @@ The artifact I selected for my ePortfolio to demonstrate my skills in databases 
 ## Justification for Inclusion
 I included this artifact in my ePortfolio because it exemplifies my proficiency in database design, management, and optimization. The project required not only setting up and managing a MongoDB database but also optimizing the database to handle large volumes of data efficiently. I focused on improving the database's performance through the implementation of indexing, optimized queries, and bulk operations. These enhancements demonstrate my ability to design and manage databases that are both scalable and efficient, meeting the needs of real-world applications.
 
-![Dash app 1](https://github.com/nathanwilson3/nathanwilson3.github.io/blob/main/Databases/Dash%20app%20screenshot%201.png)
+<img src="Databases/Dash%20app%20screenshot%201.png">
 
 ## Course Objectives Met
 The enhancements made to this artifact align with the course objectives related to databases. Specifically, this project demonstrates my ability to implement and manage a NoSQL database (MongoDB) effectively, ensuring that the database can handle large datasets and complex queries. By optimizing the database’s performance through indexing and query optimization, I demonstrated a strong understanding of database management principles and best practices. These improvements are critical in ensuring that the application can scale with the increasing amount of data it needs to manage.
@@ -111,18 +111,17 @@ The enhancements made to this artifact align with the course objectives related 
 ## Process and Learning
 The process of enhancing this artifact involved several key steps focused on optimizing the database. Initially, I conducted a thorough review of the existing database structure and identified areas for improvement. One of the first enhancements was the implementation of indexing strategies to improve query performance. By creating indexes on frequently queried fields, such as animal_id and breed, I was able to significantly reduce query times, which is essential when dealing with large datasets.
 
-![Dash app graph and map](https://github.com/nathanwilson3/nathanwilson3.github.io/blob/main/Databases/Dash%20app%20screenshot%202.png)
+<img src="Databases/Dash%20app%20screenshot%202.png">
 
 Additionally, I optimized the application’s data retrieval processes by implementing projections in the queries. This approach allowed the application to fetch only the necessary fields from the database, reducing the amount of data transferred and improving overall performance. I also incorporated bulk operations to handle large data updates and deletions more efficiently, further enhancing the database's performance and scalability.
 
 One of the challenges I encountered was balancing the trade-offs between read and write performance when implementing indexing. While indexes significantly improve read performance, they can also slow down write operations due to the additional overhead of maintaining the indexes. This experience taught me the importance of carefully considering the specific needs of the application when designing and optimizing a database.
 
-![Single and Compound Indexes](https://github.com/nathanwilson3/nathanwilson3.github.io/blob/main/Databases/single%20and%20compound%20indexes.png)
-
+<img src="Databases/single%20and%20compound%20indexes.png">
 
 Through this process, I gained a deeper understanding of database optimization techniques and the impact they can have on an application’s overall performance. The enhancements made to this artifact demonstrate my ability to manage and optimize databases effectively, making this project a valuable addition to my ePortfolio.
 
-![Bulk Operations](https://github.com/nathanwilson3/nathanwilson3.github.io/blob/main/Databases/Bulk%20Update%20operation.png)
+<img src="Databases/Bulk%20Update%20operation.png">
 
 ## Database Repository
 [Database](https://github.com/nathanwilson3/nathanwilson3.github.io/tree/main/Databases)
