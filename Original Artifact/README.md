@@ -5,5 +5,3 @@ The original program was developed using Apporto, a virtual machine managed by S
 ![Original test to ensure CRUD operations worked](https://github.com/nathanwilson3/nathanwilson3.github.io/blob/main/Original%20Artifact/Original%20crud%20test.png)
 
 ![Dash app & data table](https://github.com/nathanwilson3/nathanwilson3.github.io/blob/main/Original%20Artifact/Original%20Dash%20app%201.png)
-
-![Dash app pie chart & map](
