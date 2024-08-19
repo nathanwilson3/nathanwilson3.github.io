@@ -38,6 +38,16 @@ Together, these artifacts provide a cohesive narrative of my journey through the
 
 In conclusion, my ePortfolio is more than just a collection of projects; it is a reflection of my dedication to mastering the field of computer science. The coursework and capstone project have equipped me with the knowledge and skills needed to succeed in this dynamic industry. As I prepare to enter the workforce, I am confident that the experiences and lessons I have gained throughout this program will enable me to contribute effectively to any organization and continue to grow as a computer science professional.
 
+# Original Artifact
+
+# CS 340 Client/Server Development
+
+The original program was developed using Apporto, a virtual machine managed by SNHU. I utilized Jupyter Notebook, the Linux terminal, and mongo shell to load the csv into a collection, create multiple users, and create CRUD methods to interact with the database. I used the Dash framework to create a simple webpage for a better user experience.  In the original final project there was only a simple CRUD program with the MongoDB credentials hard coded into the file, and the dash application which had a simple user interface that allowed the user to page the through the document, select an a row, radio buttons to sort the document depending on the rescue type, and a map that would show the location of the where the selected animal was rescued from. Through my approved enhancement proprosal, I used an MVC (Model, View, Controller) model to make the program more modular and scalable. By doing this I was able to create a program that could easily interface with a MongodB database, use a pie chart or graph to display vital information, and for instances that need geolocation data plotted, display a map and pin of the geolocation utilizing Google Maps. I also made it easier to perform CRUD operations from the user interface of the dash app, where the original version you were unable to do that through the user interface.
+
+![Original test to ensure CRUD operations worked](https://github.com/nathanwilson3/nathanwilson3.github.io/blob/main/Original%20Artifact/Original%20crud%20test.png)
+
+![Dash app & data table](https://github.com/nathanwilson3/nathanwilson3.github.io/blob/main/Original%20Artifact/Original%20Dash%20app%201.png)
+
 ## Artifact One: Software Design and Engineering
 The artifact I selected for my ePortfolio is a dashboard application designed for managing and analyzing data from an animal shelter. This application was originally created as part of my coursework in CS 340 Client/Server Application, during which I was tasked with developing a software solution that allowed users to interact with a MongoDB database, performing CRUD (Create, Read, Update, Delete) operations. The dashboard was built using Python, Dash, and MongoDB, providing a user-friendly interface to facilitate the management and analysis of the shelter’s data.
 
