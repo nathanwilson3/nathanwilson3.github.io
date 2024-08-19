@@ -111,7 +111,7 @@ The enhancements made to this artifact align with the course objectives related 
 ## Process and Learning
 The process of enhancing this artifact involved several key steps focused on optimizing the database. Initially, I conducted a thorough review of the existing database structure and identified areas for improvement. One of the first enhancements was the implementation of indexing strategies to improve query performance. By creating indexes on frequently queried fields, such as animal_id and breed, I was able to significantly reduce query times, which is essential when dealing with large datasets.
 
-<img src="Databases/Dash%20app%20screenshot%202.png">
+<img src="Databases/Dash%20app%20screenshot%201.png">
 
 Additionally, I optimized the application’s data retrieval processes by implementing projections in the queries. This approach allowed the application to fetch only the necessary fields from the database, reducing the amount of data transferred and improving overall performance. I also incorporated bulk operations to handle large data updates and deletions more efficiently, further enhancing the database's performance and scalability.
 
